@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-  fmt.Println("Ebere emerci14@gmail.com ebere Data Analysis")
+  fmt.Println("Ebere emerci14@gmail.com @ebere Data Analysis")
     
 }
