@@ -1,5 +1,0 @@
-name  <- ("solomon")
-email <- ("suoguche@gmail.com")
-slack <- ("@priss")
-biost <- ("Genomics")
-cat (name, email, slack, biost)
