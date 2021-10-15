@@ -1,1 +1,5 @@
-a <- c("solomon", "suoguche@gmail.com", "priss", "genomics")
+name   <- ("solomon")
+email  <- ("suoguche@gmail.com")
+slack  <- ("@priss")
+biosta <- ("genomics")
+cat (name, email, slack, biosta)
