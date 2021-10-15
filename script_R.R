@@ -1,1 +1,0 @@
-R teameinstein_priss.R
