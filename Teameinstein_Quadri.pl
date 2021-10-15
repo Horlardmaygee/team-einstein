@@ -1,2 +1,1 @@
-
-print "Name ","- ","Omotesho Quadri\n","Email " ,"- " ,"omoteshoquadri@gmail.com\n","Discord_username " ,"- ","@","Quadri\n","Biostack ","- ","Genomic Medicine ","& ","Drug discovery";
+print ("Omotesho Quadri", "\t omoteshoquadri\@gmail.com", "\t \@Quadri", "\tDrug discovery.\n")
