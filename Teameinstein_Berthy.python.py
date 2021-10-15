@@ -1,6 +1,5 @@
-print ('Hello World')
-print ('Its so nice having you reading my bio right now')
-print ('Iam Bertha Michael Akpan')
+print ('Its so nice having you read my bio right now')
+print ('I am Bertha Michael Akpan')
 print ('berthamichael98@gmail.com')
 print ('@Berthy')
 print ('Genomics')
