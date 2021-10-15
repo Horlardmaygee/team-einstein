@@ -1,4 +1,3 @@
-print ('Hello World')
 print ('Its so nice of you to read my bio right now')
 print ('I am Ruth Osai')
 print ('amaruth30@gmail.com')
