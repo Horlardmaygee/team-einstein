@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-Perl script Teameinstein_IshitaDasgupta.pl
+Perl Teameinstein_IshitaDasgupta.pl
