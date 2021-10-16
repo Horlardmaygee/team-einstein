@@ -8,12 +8,9 @@
 
 **Albert Einstein**
   
-  *Imagination is more important than knowledge*
+  *"Imagination is more important than knowledge"*
     
-  *Life is like riding a bicycle*
-  
-*It is the preview of life's coming attractions*
-  
+ 
 <p align="center">
   <img width="500" height="300" src="https://user-images.githubusercontent.com/92265920/137582528-3d6a9e21-aa0a-44f8-a904-d603b4faa491.png">
 </p> 
