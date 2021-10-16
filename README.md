@@ -23,13 +23,13 @@
 ![image](https://user-images.githubusercontent.com/92265920/137583568-49b2a50b-a433-42fe-bbe2-f599c0ca38ce.png)
 [Linkedin] (https://www.linkedin.com/in/ebere-okpara-7226ab151)
 
-
+![image](https://user-images.githubusercontent.com/92265920/137587513-3da501d2-301f-401a-b6a4-adf8660dfb80.png)
+[Linkedin] (https://www.linkedin.com/in/quadri-omotesho-a7aa20165)
 
 *Uploads coming soon!!*
 
 Ishita Dasgupta []
 Namrata []
-Quadri[]
 Ruthy []
 Berthy[]
 priss[]
