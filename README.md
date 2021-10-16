@@ -6,15 +6,14 @@
 
 <h1 align="center"> We are a Team of Eleven (11), from diverse scientific fields poised towards bridging the gap between Biology 🥼 🔬 & computer science 💻, Hence our participation at the 3rd Edition of Hackbio Internship 2021 </h1>
 
+**Mentor**
+  
 **Albert Einstein**
   
   *"Imagination is more important than knowledge"*
-    
+  
+![image](https://user-images.githubusercontent.com/92265920/137582528-3d6a9e21-aa0a-44f8-a904-d603b4faa491.png)
  
-<p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/92265920/137582528-3d6a9e21-aa0a-44f8-a904-d603b4faa491.png">
-</p> 
-
 **Team Members**
 
 ![image](https://user-images.githubusercontent.com/92265920/137583554-385a979e-fc14-443b-8b36-d2d7e04b9660.png)
