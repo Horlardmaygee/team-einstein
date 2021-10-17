@@ -25,10 +25,12 @@
 ![image](https://user-images.githubusercontent.com/92265920/137587513-3da501d2-301f-401a-b6a4-adf8660dfb80.png)
 [Linkedin] (https://www.linkedin.com/in/quadri-omotesho-a7aa20165)
 
+[Linkedin] (http://www.linkedin.com/in/peter-abia)
+  
+[Linkedin] (https://www.linkedin.com/in/namrata-sharma-186097174/)
 *Uploads coming soon!!*
 
 Ishita Dasgupta []
-Namrata []
 Ruthy []
 Berthy[]
 priss[]
