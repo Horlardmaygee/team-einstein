@@ -30,13 +30,17 @@
   
 [Linkedin] (https://www.linkedin.com/in/namrata-sharma-186097174/)
 
+[Linkedin] (https://www.linkedin.com/in/Solomon-Oguche)
+
+
+
   
 *Uploads coming soon!!*
 
 Ishita Dasgupta []
 Ruthy []
 Berthy[]
-priss[]
+Solomon []
 <h1 align="center"> Updates 📰 </h1>
 
 <h1 align="center">  Task 1✔️ </h1>
